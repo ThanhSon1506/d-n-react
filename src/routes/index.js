@@ -1,6 +1,6 @@
-import Home from './pages/Home';
-import Following from './pages/Following';
-import Live from './pages/Live'
+import Home from '../pages/Home';
+import Following from '../pages/Following';
+import Live from '../pages/Live'
 const publicRoutes=[
    {path:'/',component:Home},
    {path:'/Following',component:Following},
